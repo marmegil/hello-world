@@ -6,3 +6,5 @@ My name's Kirill Herman and i study GitHub
 Branch testing
 
 testing push
+
+precol
